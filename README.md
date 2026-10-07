@@ -25,12 +25,7 @@ Desenvolvo projetos focados em **desenvolvimento web**, **modelagem de banco de 
 
 ---
 
-### 📊 Estatísticas no GitHub
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true&title_color=e0def4&text_color=e0def4&icon_color=ebbcba&bg_color=191724"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=rose_pine&title_color=e0def4&text_color=e0def4&icon_color=ebbcba&bg_color=191724"/>
-</p>
 
 ---
 
