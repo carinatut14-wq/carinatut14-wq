@@ -1,9 +1,6 @@
 # Olá, eu sou a Carina! 👋
 
-Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no Centro Universitário Braz Cubas, dedicada a transformar lógica e ideias em código limpo, eficiente e funcional. 
-
-Desenvolvo projetos focados em **desenvolvimento web**, **modelagem de banco de dados** e **resolução de problemas**, combinando boas práticas de programação com interfaces modernas e seguras. Estou em constante evolução, explorando novas linguagens e aprimorando minhas habilidades em arquitetura de software e tecnologia.
-
+Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**
 ---
 
 ### 💻 Tecnologias & Ferramentas
