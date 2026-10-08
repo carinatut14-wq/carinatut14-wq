@@ -1,4 +1,4 @@
-# 🌷 Olá, eu sou a Carina!
+#  Olá, eu sou a Carina!
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:191724,50:ebbcba,100:e0def4&height=180&section=header&text=Carina%20Tut&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ADS%20Student%20%7C%20Developer%20in%20Progress&descAlignY=58&descSize=18" />
