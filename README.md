@@ -1,28 +1,20 @@
-#  Olá, eu sou a Carina!
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:191724,50:ebbcba,100:e0def4&height=180&section=header&text=Carina%20Tut&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ADS%20Student%20%7C%20Developer%20in%20Progress&descAlignY=58&descSize=18" />
-</p>
-
-<p align="center">
-  🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong><br>
-  💻 Desenvolvimento Web • Programação • Banco de Dados<br>
-  🌱 Aprendendo, construindo e evoluindo um projeto de cada vez.
-</p>
-
----
+# Hi, I'm Carina Tutihashi 👋
 
 ## ✨ Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no **Centro Universitário Braz Cubas**, apaixonada por tecnologia e por transformar ideias em projetos que realmente funcionam.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no **Centro Universitário Braz Cubas**. Tenho foco em transformar teoria em prática através de projetos reais, buscando construir soluções simples, funcionais e bem estruturadas.
 
-Atualmente, estou construindo minha base em **programação, desenvolvimento web e banco de dados**, utilizando projetos acadêmicos e pessoais para transformar o conteúdo das aulas em prática.
+---
 
-Gosto de entender **como as coisas funcionam por trás da interface** — desde a lógica do código e a estrutura de um sistema até a organização dos dados e a experiência de quem utiliza a aplicação.
+### 💻 O que estou estudando e praticando
 
-Estou em constante evolução e, neste momento, meu foco está em fortalecer meus fundamentos e construir projetos cada vez mais completos.
+- **Desenvolvimento Web:** Criação de interfaces com HTML, CSS e JavaScript.
+- **Banco de Dados:** Modelagem e consultas estruturadas com SQL.
+- **Lógica & Programação:** Fundamentos e resolução de problemas em C e Python.
 
-> 🌱 **Aprendendo. Construindo. Evoluindo.**
+---
+
+> 🌱 *Aprendendo. Construindo. Evoluindo.*
 
 ---
 
@@ -34,7 +26,7 @@ Estou em constante evolução e, neste momento, meu foco está em fortalecer meu
 | :--------------------: | :----------------------------------------------- |
 |       🌐 **Web**       | HTML • CSS • JavaScript                          |
 |   🧠 **Programação**   | C • Python • Lógica de Programação               |
-| 🗄️ **Banco de Dados** | SQL • Modelagem de Dados                         |
+| 🗄️ **Banco de Dados**  | SQL • Modelagem de Dados                         |
 |   🔧 **Ferramentas**   | Git • GitHub • VS Code                           |
 |    🎨 **Interfaces**   | UI • Organização visual • Experiência do usuário |
 
@@ -106,18 +98,6 @@ Estou em constante evolução e, neste momento, meu foco está em fortalecer meu
                   🚀 EVOLUIR
 ```
 
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true&title_color=e0def4&text_color=e0def4&icon_color=ebbcba&bg_color=191724&hide_border=true"/>
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=rose_pine&title_color=e0def4&text_color=e0def4&icon_color=ebbcba&bg_color=191724&hide_border=true"/>
-</p>
-
----
-
 ## 🎯 Atualmente
 
 ```text
@@ -127,16 +107,15 @@ Estou em constante evolução e, neste momento, meu foco está em fortalecer meu
 🗄️ Aprendendo banco de dados e SQL
 🔧 Praticando Git e GitHub
 🧠 Melhorando minha lógica de programação
-🌱 Construindo minha jornada como desenvolvedora
 ```
 
 ---
 
 ## 💭 Meu objetivo
 
-Quero continuar transformando conhecimento em projetos reais, fortalecendo minha base como desenvolvedora e descobrindo quais áreas da tecnologia mais combinam comigo.
+💭 Meu objetivo
 
-Ainda estou no começo da jornada — e justamente por isso, cada projeto, erro e aprendizado faz parte da minha evolução.
+Construir soluções reais, fortalecer meus fundamentos em tecnologia e evoluir constantemente através da prática e do aprendizado contínuo.
 
 ---
 
