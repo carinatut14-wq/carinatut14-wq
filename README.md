@@ -1,3 +1,13 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e8c5d5,50:d8b4e2,100:f8e8ef&height=180&section=header&text=Carina%20Tutihashi&fontSize=42&fontColor=69465e&fontAlignY=40&desc=ADS%20Student%20%7C%20Learning%20to%20Code&descSize=16&descAlignY=60"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=1000&color=C078A0&center=true&vCenter=true&width=435&lines=Aprendendo+%E2%80%A2+Construindo+%E2%80%A2+Evoluindo;Transformando+aprendizado+em+c%C3%B3digo+%F0%9F%8C%B8" alt="Animação de apresentação"/>
+
+</div>
+
+---
+
 # Hi, I'm Carina Tutihashi 👋
 
 ## ✨ Sobre mim
@@ -134,3 +144,10 @@ Construir soluções reais, fortalecer meus fundamentos em tecnologia e evoluir 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0def4,50:ebbcba,100:191724&height=100&section=footer"/>
 </p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8e8ef,50:d8b4e2,100:e8c5d5&height=120&section=footer" width="100%" alt="Divisória decorativa rosa e lilás"/>
+
+<sub>♡ made with curiosity, creativity & code ♡</sub>
+
+</div>
