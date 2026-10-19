@@ -137,9 +137,6 @@ Construir soluções reais, fortalecer meus fundamentos em tecnologia e evoluir 
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0def4,50:ebbcba,100:191724&height=100&section=footer"/>
-</p>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8e8ef,50:d8b4e2,100:e8c5d5&height=120&section=footer" width="100%" alt="Divisória decorativa rosa e lilás"/>
