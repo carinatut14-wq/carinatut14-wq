@@ -138,10 +138,6 @@ Construir soluções reais, fortalecer meus fundamentos em tecnologia e evoluir 
 </p>
 
 <p align="center">
-  <i>“Transformando aprendizado em código.”</i> 💻🌷
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0def4,50:ebbcba,100:191724&height=100&section=footer"/>
 </p>
 <div align="center">
